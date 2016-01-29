@@ -4,6 +4,8 @@ logrotate - rotates, compresses, and mails system logs
 
 [![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
 
+Forked form telusdigital because we need to depend on released versions of roles.
+
 Tunables
 --------
 * ```logrotate_name``` (string) - Name for logrotate script
